@@ -8,3 +8,6 @@ It's about to implement a function which implements the following rules :
 - For each digit 3, 5, 7, add “Foo”, “Bar”, “Qix” in the digits order.
 
 Also we must keep a trace of 0 in numbers, each 0 must be replaced by char '*'.
+
+## Run
+You can clone the project and then open : index.html in your navigator
